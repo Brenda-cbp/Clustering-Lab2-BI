@@ -2,7 +2,7 @@
 
 ## Caso BancAlpes
 
-Álvaro Plata (201820098)
+Alvaro Plata (201820098)
 <br>
 Brenda Barahona (201812721)
 <br>
